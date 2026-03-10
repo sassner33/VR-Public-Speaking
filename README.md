@@ -4,6 +4,7 @@ An adaptive XR game built in Unity that helps users practice and improve their p
 ---
 
 ## Overview
+**Developed with Unity version 6000.3.9f1**
 
 Public speaking anxiety is one of the most common challenges people face. This project applies exposure-based training — a core principle in cognitive behavioral therapy (CBT) — through a safe, repeatable, and controllable VR environment.
 
