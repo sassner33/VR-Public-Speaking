@@ -2,6 +2,9 @@
 An adaptive XR game built in Unity that helps users practice and improve their public speaking skills through immersive virtual reality exposure training.
 
 ---
+![Img1](Img1.png)
+![Img2](Img2.png)
+![Img3](Img3.png)
 
 ## Overview
 **Developed with Unity version 6000.3.9f1**
